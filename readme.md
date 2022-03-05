@@ -1,7 +1,7 @@
 # Struk
 Simple language for data serialization with heavy inspiration from Typescript, and a bit of Rust (number names) and C# (Multi dimensional arrays)
 
-Right now not done.
+Right now not done. Also still learning rust the code is a mess I still don't understand how rust works.
 
 
 ## Types
@@ -74,8 +74,9 @@ Example:
 
 (str | null)
 
-### Predefined values
-This can eliminate the need for post processing but it should be used for tuples.
+### Literals
+`"abcdef"`
+Yes.
 
 ## Wait what about ProtoBuf?
 *shhhhhhhh*
